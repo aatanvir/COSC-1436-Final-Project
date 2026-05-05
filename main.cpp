@@ -13,18 +13,18 @@
  *
  * Concepts Demonstrated (Chapters 1-12)
  * -------------------------------------
- * Ch 1  - Program structure: #include directives, main() entry point
- * Ch 2  - Output with std::cout and string literals
- * Ch 3  - Variables (int, float, bool) and input with std::cin
- * Ch 4  - Arithmetic expressions to calculate the final percentage
- * Ch 5  - if / else if / else for letter-grade determination (with char)
- * Ch 6  - Sentinel-controlled looped input (negative score ends entry)
- * Ch 7  - for loop for grade cutoffs + do-while loop for assignment input
- * Ch 8  - <cmath> library: std::round() for the percentage
- * Ch 9  - User-defined function: displayGreeting() using <ctime>
- * Ch 10 - Header + implementation files: Greeting.h and Greeting.cpp
- * Ch 11 - std::vector with push_back, range-based for, and indexed iteration
- * Ch 12 - <algorithm> std::sort with a lambda; <string> getline for names
+ * Ch 1 (The context of software program) - Program structure: #include directives, main() entry point
+ * Ch 2 (writing a C++ Program) - Output with std::cout and string literals
+ * Ch 3 (Values & Variables) - Variables (int, float, bool) and input with std::cin
+ * Ch 4 (Expressions & Arithmetic) - Arithmetic expressions to calculate the final percentage
+ * Ch 5 (Conditional Execution) - if / else if / else for letter-grade determination (with char)
+ * Ch 6 (Iteration) - Sentinel-controlled looped input (negative score ends entry)
+ * Ch 7 (Other Conditional & Iterative statements) - for loop for grade cutoffs + do-while loop for assignment input
+ * Ch 8 (Using Functions) - <cmath> library: std::round() for the percentage
+ * Ch 9 (Writing Functions) - User-defined function: displayGreeting() using <ctime>
+ * Ch 10 (Managing Functions & Data) - Header + implementation files: Greeting.h and Greeting.cpp
+ * Ch 11 (Sequences) - std::vector with push_back, range-based for, and indexed iteration
+ * Ch 12 (Sorting and Searching) - <algorithm> std::sort with a lambda; <string> getline for names
  */
 
 int main() {
