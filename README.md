@@ -37,4 +37,4 @@ Using g++ (Linux / macOS / WSL / MinGW):
 - C++17 or newer compiler (g++, clang, or MSVC)
 
 ## Course Concepts Demonstrated
-Chapters 1-12 of [Textbook Title].
+Chapters 1-12 of Fundamentals of C++ Programming.
