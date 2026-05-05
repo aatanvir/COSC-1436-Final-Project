@@ -7,7 +7,7 @@ from a user-defined grading scheme and a set of assignment scores.
 Arman Tanvir - COSC 1436, Spring 2026
 
 ## Description
-[2-3 sentences describing what the program does and who it's for.]
+I built a grading calculator in C++ as part of my introduction to programming, using foundational concepts like variables, conditional logic, loops, and functions to process and organize user input. The program calculates weighted averages, handles multiple assignments dynamically, and ensures accuracy through structured logic, reinforcing both problem-solving and a clear, step-by-step approach to thinking through tasks. Designed for students and educators, it offers a practical, efficient tool for tracking academic performance while demonstrating how core programming principles translate into meaningful, real-world applications.
 
 ## Features
 - Time-of-day greeting
