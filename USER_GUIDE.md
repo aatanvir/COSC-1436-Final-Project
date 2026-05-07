@@ -39,6 +39,8 @@
 4. The program uses something called a sentinel value to let the calculator know when the user is finished entering assignment scores. Instead of asking the user ahead of time how many grades they want to enter, the program keeps accepting scores until a negative number is typed in. Since assignment grades cannot normally be negative, the program recognizes this value as a signal to stop collecting input. Once the negative number is entered, the calculator automatically ends the input process, sorts the grades, calculates the average percentage, and displays the final letter grade. This makes the program easier and more flexible to use because the user can enter as many grades as needed without restarting the program or entering a fixed amount beforehand.
 
 5.
+<img width="1366" height="768" alt="Screenshot (41)" src="https://github.com/user-attachments/assets/d5a7bc52-1c23-4ad6-8234-168564993a6a" />
+
 Welcome to the C++ Grading Calculator!
 This program will help you calculate your final grade.
 
