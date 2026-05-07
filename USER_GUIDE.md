@@ -68,6 +68,15 @@ Letter Grade: B
 Thank you for using the Grading Calculator!
 <img width="895" height="572" alt="Screenshot (41)" src="https://github.com/user-attachments/assets/1f975682-0b7d-407d-8af4-3ed21befb716" />
 
-6. Sample Session — paste a complete example run (input + output) so the user can see what success looks like.
-7. Understanding Your Results — explain what each line of the final output means (Total Points Earned, Total Percentage, Final Letter Grade).
+7. Understanding Your Results
+
+Total Points Earned
+This shows the sum or overall amount of points the user has received based on all the assignment scores entered. It represents the combined performance before converting it into a percentage.
+
+Total Percentage
+This is the calculated average of all the entered scores shown as a percentage. It gives a clear view of how well the student performed overall in the course out of 100 percent.
+
+Final Letter Grade
+This is the letter equivalent of the total percentage. The program converts the numeric percentage into a standard letter grade (such as A, B, C, D, or F) to make it easier to understand overall performance at a glance.
+
 8. Troubleshooting — at least 2 common mistakes (e.g., entering letters where a number is expected, forgetting that the sentinel is negative).
