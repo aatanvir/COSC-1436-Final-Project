@@ -100,3 +100,6 @@ If a user enters a number lower than 0 or higher than 100, the result may not be
 
 • Not entering all grades before stopping  
 If the sentinel value is entered too early by mistake, the program will stop collecting input and calculate the final grade using incomplete data. In this case, the program may need to be run again to re-enter all scores.
+
+<img width="536" height="472" alt="Screenshot (44)" src="https://github.com/user-attachments/assets/68018505-d0af-46ac-8a90-551877688a19" />
+
