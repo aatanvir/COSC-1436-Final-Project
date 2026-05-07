@@ -29,7 +29,27 @@
    - Data Type / Format Expected: No input required.
    - Acceptable Input Range / Constraints: None.
 4. The program uses something called a sentinel value to let the calculator know when the user is finished entering assignment scores. Instead of asking the user ahead of time how many grades they want to enter, the program keeps accepting scores until a negative number is typed in. Since assignment grades cannot normally be negative, the program recognizes this value as a signal to stop collecting input. Once the negative number is entered, the calculator automatically ends the input process, sorts the grades, calculates the average percentage, and displays the final letter grade. This makes the program easier and more flexible to use because the user can enter as many grades as needed without restarting the program or entering a fixed amount beforehand.
-5. Sentinel Value Explanation — explain that entering a negative number for an assignment score ends input and triggers the calculation.
+5. Welcome to the C++ Grading Calculator!
+This program will help you calculate your final grade.
+
+Enter an assignment score (enter a negative number to finish): 92
+Enter an assignment score (enter a negative number to finish): 85.5
+Enter an assignment score (enter a negative number to finish): 78
+Enter an assignment score (enter a negative number to finish): 96
+Enter an assignment score (enter a negative number to finish): 88
+Enter an assignment score (enter a negative number to finish): -1
+
+Grades entered (highest to lowest):
+96
+92
+88
+85.5
+78
+
+Final Average: 87.9%
+Letter Grade: B
+
+Thank you for using the Grading Calculator!
 6. Sample Session — paste a complete example run (input + output) so the user can see what success looks like.
 7. Understanding Your Results — explain what each line of the final output means (Total Points Earned, Total Percentage, Final Letter Grade).
 8. Troubleshooting — at least 2 common mistakes (e.g., entering letters where a number is expected, forgetting that the sentinel is negative).
