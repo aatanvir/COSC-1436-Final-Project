@@ -84,6 +84,7 @@ This is the calculated average of all the entered scores shown as a percentage. 
 • Final Letter Grade  
 This is the letter equivalent of the total percentage. The program converts the numeric percentage into a standard letter grade (such as A, B, C, D, or F) to make it easier to understand overall performance at a glance.
 
-<img width="883" height="565" alt="Screenshot (42)" src="https://github.com/user-attachments/assets/2a551269-9137-4383-b8c7-26e4e91010ed" />
+<img width="543" height="518" alt="Screenshot (42)" src="https://github.com/user-attachments/assets/3529dfd7-a2d0-4c1f-a977-454ac6891851" />
+
 
 8. Troubleshooting — at least 2 common mistakes (e.g., entering letters where a number is expected, forgetting that the sentinel is negative).
