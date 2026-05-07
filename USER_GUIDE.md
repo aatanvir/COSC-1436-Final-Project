@@ -73,7 +73,7 @@ Thank you for using the Grading Calculator!
 <img width="559" height="524" alt="Screenshot (423)" src="https://github.com/user-attachments/assets/dcd67b8e-15b0-4391-a682-6b212834e452" />
 
 
-7. [Understanding Your Results]
+6. [Understanding Your Results]
 
 • Total Points Earned  
 This shows the sum or overall amount of points the user has received based on all the assignment scores entered. It represents the combined performance before converting it into a percentage.
@@ -87,7 +87,7 @@ This is the letter equivalent of the total percentage. The program converts the 
 <img width="543" height="518" alt="Screenshot (42)" src="https://github.com/user-attachments/assets/3529dfd7-a2d0-4c1f-a977-454ac6891851" />
 
 
-8. [Troubleshooting]
+7. [Troubleshooting]
 
 • Entering letters instead of numbers  
 If the user types letters or symbols when the program is expecting a numeric grade, the program may give an error or ignore the input. To fix this, make sure to only enter whole numbers or decimal values such as 85 or 92.5 when entering scores.
