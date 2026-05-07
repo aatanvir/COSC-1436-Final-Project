@@ -1,7 +1,8 @@
 1. This program is a grading calculator for an Intro to Programming in C++ class. It helps users calculate their overall grade by entering scores from different assignments, quizzes, and tests. The calculator makes it easier to keep track of grades without having to do all the math manually. It is simple to use, accurate, and designed for people of all ages and experience levels, making grade calculation faster and less stressful.
 2. To get started, compile the program using the build command provided in the README file with a C++17 compatible compiler such as g++. After compiling, run the generated executable file (./GradeCalculator for macOS/Linux or GradeCalculator.exe for Windows) to launch the grading calculator.
 
-<img width="238" height="236" alt="Screenshot (43)" src="https://github.com/user-attachments/assets/3964f1e0-4208-4276-a125-40a29b2444e9" />
+ <img width="238" height="236" alt="Screenshot (43)" src="https://github.com/user-attachments/assets/3964f1e0-4208-4276-a125-40a29b2444e9" />
+
 
 3.
 [Welcome Message]
