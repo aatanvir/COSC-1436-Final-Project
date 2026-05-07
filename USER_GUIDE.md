@@ -87,4 +87,16 @@ This is the letter equivalent of the total percentage. The program converts the 
 <img width="543" height="518" alt="Screenshot (42)" src="https://github.com/user-attachments/assets/3529dfd7-a2d0-4c1f-a977-454ac6891851" />
 
 
-8. Troubleshooting — at least 2 common mistakes (e.g., entering letters where a number is expected, forgetting that the sentinel is negative).
+8. Troubleshooting
+
+• Entering letters instead of numbers  
+If the user types letters or symbols when the program is expecting a numeric grade, the program may give an error or ignore the input. To fix this, make sure to only enter whole numbers or decimal values such as 85 or 92.5 when entering scores.
+
+• Forgetting the sentinel value is negative  
+Some users may keep entering grades and forget how to stop the program. The program only ends input when a negative number is entered. Make sure to enter a negative number (such as -1) when you are finished adding all assignment scores.
+
+• Entering scores outside the valid range  
+If a user enters a number lower than 0 or higher than 100, the result may not be accurate. Always make sure grades are between 0 and 100.
+
+• Not entering all grades before stopping  
+If the sentinel value is entered too early by mistake, the program will stop collecting input and calculate the final grade using incomplete data. In this case, the program may need to be run again to re-enter all scores.
