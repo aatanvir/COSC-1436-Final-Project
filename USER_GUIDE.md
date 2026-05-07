@@ -87,7 +87,7 @@ This is the letter equivalent of the total percentage. The program converts the 
 <img width="543" height="518" alt="Screenshot (42)" src="https://github.com/user-attachments/assets/3529dfd7-a2d0-4c1f-a977-454ac6891851" />
 
 
-8. Troubleshooting
+8. [Troubleshooting]
 
 • Entering letters instead of numbers  
 If the user types letters or symbols when the program is expecting a numeric grade, the program may give an error or ignore the input. To fix this, make sure to only enter whole numbers or decimal values such as 85 or 92.5 when entering scores.
