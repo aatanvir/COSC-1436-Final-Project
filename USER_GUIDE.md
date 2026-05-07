@@ -70,7 +70,8 @@ Final Average: 87.9%
 Letter Grade: B
 
 Thank you for using the Grading Calculator!
-<img width="895" height="572" alt="Screenshot (41)" src="https://github.com/user-attachments/assets/1f975682-0b7d-407d-8af4-3ed21befb716" />
+<img width="559" height="524" alt="Screenshot (423)" src="https://github.com/user-attachments/assets/dcd67b8e-15b0-4391-a682-6b212834e452" />
+
 
 7. [Understanding Your Results]
 
