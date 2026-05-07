@@ -3,6 +3,7 @@
 
 <img width="238" height="236" alt="Screenshot (43)" src="https://github.com/user-attachments/assets/3964f1e0-4208-4276-a125-40a29b2444e9" />
 
+
 3.
 [Welcome Message]
    - The program displays a greeting and explains that the grading calculator will help calculate the user’s final grade.
