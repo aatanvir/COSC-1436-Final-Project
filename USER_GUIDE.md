@@ -39,8 +39,9 @@
 4. The program uses something called a sentinel value to let the calculator know when the user is finished entering assignment scores. Instead of asking the user ahead of time how many grades they want to enter, the program keeps accepting scores until a negative number is typed in. Since assignment grades cannot normally be negative, the program recognizes this value as a signal to stop collecting input. Once the negative number is entered, the calculator automatically ends the input process, sorts the grades, calculates the average percentage, and displays the final letter grade. This makes the program easier and more flexible to use because the user can enter as many grades as needed without restarting the program or entering a fixed amount beforehand.
 
 5.
- Welcome to the C++ Grading Calculator!
+ [Welcome to the C++ Grading Calculator!]
 
+ 
  This program will help you calculate your final grade.
 
 -Enter an assignment score (enter a negative number to finish): 92
@@ -68,15 +69,15 @@ Letter Grade: B
 Thank you for using the Grading Calculator!
 <img width="895" height="572" alt="Screenshot (41)" src="https://github.com/user-attachments/assets/1f975682-0b7d-407d-8af4-3ed21befb716" />
 
-7. Understanding Your Results
+7. [Understanding Your Results]
 
-Total Points Earned
+• Total Points Earned  
 This shows the sum or overall amount of points the user has received based on all the assignment scores entered. It represents the combined performance before converting it into a percentage.
 
-Total Percentage
+• Total Percentage  
 This is the calculated average of all the entered scores shown as a percentage. It gives a clear view of how well the student performed overall in the course out of 100 percent.
 
-Final Letter Grade
+• Final Letter Grade  
 This is the letter equivalent of the total percentage. The program converts the numeric percentage into a standard letter grade (such as A, B, C, D, or F) to make it easier to understand overall performance at a glance.
 
 8. Troubleshooting — at least 2 common mistakes (e.g., entering letters where a number is expected, forgetting that the sentinel is negative).
