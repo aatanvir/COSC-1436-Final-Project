@@ -40,6 +40,7 @@
 
 5.
  Welcome to the C++ Grading Calculator!
+
  This program will help you calculate your final grade.
 
 -Enter an assignment score (enter a negative number to finish): 92
